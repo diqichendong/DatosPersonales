@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Datos Personales</string>
+    <string name="lbl1">Nombre:</string>
+    <string name="lbl2">Apellidos:</string>
+    <string name="lbl3">Email:</string>
+    <string name="lbl4">Teléfono:</string>
+    <string name="sw">Mostrar Log</string>
+</resources>
